@@ -1,14 +1,14 @@
-int startX = 0;
+ int startX = 0;
  int startY =150;
  int endX = 10;
  int endY = 150;
- int color1 = color(255, 227, 64); 
+ int color1 = color(45, 60, 64); 
 
  
  void setup(){
    
   size(300,300);
-  background(50, 76, 18);
+  background(31, 190, 214);
   strokeWeight(5);
   //noLoop();
 }
